@@ -19,3 +19,29 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.categories img{
+    width: 100px;
+}
+.categories1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.panda-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#subscribe h6{
+    color: gray;
+}
