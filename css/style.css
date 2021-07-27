@@ -10,6 +10,7 @@
 }
 .price{
     color: #FF136F;
+    margin-top: 150px;
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
@@ -18,6 +19,21 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+    margin-left: 180px;
+}
+.navbar-nav{
+    margin-left: 600px;
+}
+.nav-link{
+    margin:15px
+}
+.shoe{
+    margin-top:100px;
+    margin-bottom:50px;
+}
+.backpack{
+    margin-top:100px;
+    margin-bottom:50px;
 }
 .categories img{
     width: 100px;
@@ -45,3 +61,8 @@
 #subscribe h6{
     color: gray;
 }
+.icon{
+    font-size:50px;
+    color: #FF136F;
+    text-decoration: none;
+  }
